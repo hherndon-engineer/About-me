@@ -305,3 +305,32 @@ h1 {
     background: #eee;
     color: #111;
 }
+
+/* STRONGER ABOUT PAGE LINES */
+
+.about-header,
+.about-section {
+    border-bottom: 2px solid #555;
+}
+
+.interest-grid {
+    border-top: 2px solid #555;
+    border-left: 2px solid #555;
+}
+
+.interest {
+    border-right: 2px solid #555;
+    border-bottom: 2px solid #555;
+}
+
+.now-list {
+    border-top: 2px solid #555;
+}
+
+.now-item {
+    border-bottom: 2px solid #555;
+}
+
+.photo-placeholder {
+    border: 2px solid #666;
+}
